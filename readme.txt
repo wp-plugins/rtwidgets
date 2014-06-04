@@ -3,10 +3,10 @@ Contributors: rtcamp, manishsongirkar36, hrishiv90
 Tags: widget, sidebar, custom widget, social connect, feed, category, menu, comments, subscribe, gravatar, multiple widgets
 Donate link: https://rtcamp.com/donate/
 Requires at least: WordPress 3.8
-Tested up to: WordPress 3.8
+Tested up to: WordPress 3.9
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
-Stable tag: 1.2
+Stable tag: 1.2.1
 
 This installs multiple custom widgets in one activation. All the custom widgets are translation ready.
 
@@ -46,6 +46,10 @@ Its just that we are hyperactive on our own forum!
 
 == Changelog ==
 
+= 1.2.1 =
+* Update Grunt Packages
+* Minor changes
+
 = 1.2 =
 * Update plugin documentations
 
@@ -54,5 +58,6 @@ Its just that we are hyperactive on our own forum!
 
 == Upgrade Notice ==
 
-= 1.2 =
-* Update plugin documentations
+= 1.2.1 =
+* Update Grunt Packages
+* Minor changes
